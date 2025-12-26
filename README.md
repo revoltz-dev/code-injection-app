@@ -1,3 +1,5 @@
+## ⚠️⚠️ATENÇÃO: PROJETO OBSOLETO ⚠️⚠️
+
 Demonstração do aplicativo: https://www.youtube.com/watch?v=pb4ThljsXSc&ab_channel=Revoltz
 
 <img width="602" height="443" alt="image" src="https://github.com/user-attachments/assets/8212bcfe-c0b6-45c1-ba80-ad07ac79d44e" />
