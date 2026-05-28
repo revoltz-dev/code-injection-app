@@ -1,52 +1,52 @@
-## ⚠️⚠️ATENÇÃO: PROJETO OBSOLETO ⚠️⚠️
+## ⚠️⚠️ WARNING: OBSOLETE PROJECT ⚠️⚠️
 
-Demonstração do aplicativo: https://www.youtube.com/watch?v=pb4ThljsXSc&ab_channel=Revoltz
+App demo: https://www.youtube.com/watch?v=pb4ThljsXSc&ab_channel=Revoltz
 
 <img width="602" height="443" alt="image" src="https://github.com/user-attachments/assets/8212bcfe-c0b6-45c1-ba80-ad07ac79d44e" />
 
 
-Antes de começar, certifique-se de que atendeu aos seguintes requisitos:
+Before starting, make sure you meet the following requirements:
 
-- Python 3.10 ou superior
-- Visual C++ Build Tools (para compilar extensões C)
-- Pip (para instalar as dependências do Python)
+- Python 3.10 or later
+- Visual C++ Build Tools (to compile C extensions)
+- Pip (to install Python dependencies)
 
-Instalação
+Installation
 
-Siga estes passos para configurar o seu projeto localmente.
+Follow these steps to set up the project locally.
 
-1. Instale o Python 3.10
-   Baixe e instale o Python 3.10 no site oficial:
-   - Baixar Python 3.10: https://www.python.org/downloads/release/python-3100/
+1. Install Python 3.10
+   Download and install Python 3.10 from the official site:
+   - Download Python 3.10: https://www.python.org/downloads/release/python-3100/
 
-2. Instale o Visual C++ Build Tools
-   Você precisará das ferramentas de compilação Visual C++ para compilar extensões:
-   - Baixar Visual C++ Build Tools: https://visualstudio.microsoft.com/pt-br/visual-cpp-build-tools/
+2. Install Visual C++ Build Tools
+   You'll need Visual C++ Build Tools to compile extensions:
+   - Download Visual C++ Build Tools: https://visualstudio.microsoft.com/visual-cpp-build-tools/
 
-3. Clone o repositório
-   Clone o repositório do seu projeto para sua máquina local:
-   
+3. Clone the repository
+   Clone the project repo to your local machine:
+
    git clone https://github.com/mat-mcd/code-injection.git
-   
+
    cd code-injection
 
-5. Instale as dependências
-   Instale os pacotes Python necessários usando o arquivo requirements.txt:
-   
+5. Install dependencies
+   Install the required Python packages using `requirements.txt`:
+
    pip install -r requirements.txt
 
-7. Execute o projeto
-   Agora você pode rodar o projeto, por exemplo:
-   
+7. Run the project
+   You can now run the project, for example:
+
    python main.py
 
 
-Depuração
+Debugging
 
-Você pode usar o pyflakes para verificar erros de sintaxe no arquivo main.py:
+You can use pyflakes to check for syntax issues in `main.py`:
 
 pyflakes main.py
 
-Isso exibirá quaisquer problemas que precisem de atenção no código.
+This will output anything in the code that needs attention.
 
-Este projeto foi descontinuado e disponibilizado publicamente apenas para fins de estudo. Pode conter erros ou exigir correções antes de ser utilizado.
+This project has been discontinued and is published only for study purposes. It may contain bugs or require fixes before it can be used.
